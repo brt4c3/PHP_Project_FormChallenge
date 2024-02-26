@@ -26,7 +26,8 @@ services:
       - MYSQL_DATABASE="my_form";
       - MYSQL_USER="test";
       - MYSQL_PASSWORD="p@55w0rd";
-    command: ""
+    command: 
+      - "docker exec run-php-db mysqlbinlog ./MySQL/mysql/"
     volumes:
       - "./MySQL/db:/docker-entrypoint-initdb.d"
       - "./MySQL/mysql_logs:/var/log/mysql"
