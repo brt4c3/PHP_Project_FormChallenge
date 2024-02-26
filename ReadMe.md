@@ -5,5 +5,4 @@ docker compose up  -d
 docker-compose down                
 docker-compose up -d
 
-#　トランザクションログの平文化
-docker exec run-php-db mysqlbinlog　./MySQL/mysql/
+
