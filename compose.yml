@@ -24,7 +24,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: "@Fr0J4ck"
       MYSQL_DATABASE: "my_form"
-      MYSQL_USER:"test"
+      MYSQL_USER: "test"
       MYSQL_PASSWORD: "p@55w0rd"
     command: 
       - "docker exec run-php-db mysqlbinlog ./MySQL/mysql/"
