@@ -1,0 +1,82 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 08:57:47.143531 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 08:57:47.144480 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 08:57:47.466045 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00173: SIGHUP received.  Attempting to restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 08:57:47.526600 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 08:57:47.527293 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:04:14.214899 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:04:14.215612 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 09:04:14.780333 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00173: SIGHUP received.  Attempting to restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:04:14.840450 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:04:14.843405 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:16:11.288982 2024] [mpm_prefork:notice] [pid 8:tid 8] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:16:11.290599 2024] [core:notice] [pid 8:tid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 09:16:12.029060 2024] [mpm_prefork:notice] [pid 8:tid 8] AH00173: SIGHUP received.  Attempting to restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:16:12.100147 2024] [mpm_prefork:notice] [pid 8:tid 8] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:16:12.100830 2024] [core:notice] [pid 8:tid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:19:59.649418 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:19:59.650030 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 09:20:00.353897 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00173: SIGHUP received.  Attempting to restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:20:00.399636 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:20:00.400409 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:22:30.706320 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:22:30.706858 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 09:22:31.609982 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00173: SIGHUP received.  Attempting to restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:22:31.706341 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:22:31.706965 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:25:41.975220 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:25:41.976724 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 09:25:42.742470 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00173: SIGHUP received.  Attempting to restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:25:42.795591 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:25:42.796460 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:27:19.262942 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:27:19.264504 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:30:11.381739 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:30:11.382302 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 09:30:21.349648 2024] [autoindex:error] [pid 10:tid 10] [client 127.0.0.1:40978] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Dec 08 09:30:31.419884 2024] [autoindex:error] [pid 11:tid 11] [client 127.0.0.1:51376] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Dec 08 09:30:41.492245 2024] [autoindex:error] [pid 12:tid 12] [client 127.0.0.1:44690] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Dec 08 09:30:51.561116 2024] [autoindex:error] [pid 13:tid 13] [client 127.0.0.1:53864] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Dec 08 09:43:57.271783 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:43:57.275898 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:43:57.276835 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+[Sun Dec 08 09:43:57.281951 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:43:57.285588 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:43:57.286543 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:43:57.331610 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:43:57.335417 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:43:57.336148 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+[Sun Dec 08 09:43:57.342040 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:43:57.345641 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:43:57.346428 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+[Sun Dec 08 09:43:57.353007 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:43:57.353578 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 08 09:54:21.255463 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:54:21.265318 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:54:21.266084 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+[Sun Dec 08 09:54:21.269873 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:54:21.272492 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:54:21.272888 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.1.150. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 08 09:54:21.305558 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:54:21.311162 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:54:21.311705 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+[Sun Dec 08 09:54:21.316882 2024] [ssl:warn] [pid 9:tid 9] AH01909: 192.168.1.150:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 08 09:54:21.319518 2024] [ssl:error] [pid 9:tid 9] AH02217: ssl_stapling_init_cert: can't retrieve issuer certificate! [subject: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / issuer: emailAddress=admin@ephpformchallenge.com,CN=phpformchallenge,OU=IT Department,O=My Organization,L=San Francisco,ST=California,C=US / serial: 51B0E98DEA4BA52EEAA515E5BAE3643A4DD2B70B / notbefore: Dec  8 08:56:00 2024 GMT / notafter: Dec  8 08:56:00 2025 GMT]
+[Sun Dec 08 09:54:21.320084 2024] [ssl:error] [pid 9:tid 9] AH02604: Unable to configure certificate 192.168.1.150:443:0 for stapling
+[Sun Dec 08 09:54:21.330740 2024] [mpm_prefork:notice] [pid 9:tid 9] AH00163: Apache/2.4.62 (Debian) PHP/8.4.1 OpenSSL/3.0.15 configured -- resuming normal operations
+[Sun Dec 08 09:54:21.331778 2024] [core:notice] [pid 9:tid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
